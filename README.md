@@ -47,6 +47,8 @@ Add right-click and scroll gestures
 Support multiple hands or switching the dominant hand
 Automatic screen resolution calibration
 Bundle the .task model with the repository or download it automatically on first run
+
+Requires Python 3.11 or 3.12 — MediaPipe does not yet support newer versions
 📄 License
 
 This project is licensed under the MIT License.
